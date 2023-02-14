@@ -5,7 +5,7 @@ A telemetry system for a Greenpower racing go-kart (https://www.greenpower.co.uk
 
 # System Diagram
 
-![Lora Diagram](https://user-images.githubusercontent.com/43633955/218691574-61b8a46e-cfd5-400a-b67e-f53ed5249368.png)
+![Lora Diagram (1)](https://user-images.githubusercontent.com/43633955/218691854-5a6bf5c3-c304-4b04-b4e8-5104f52c9db4.png)
 
 
 # Required Parts
