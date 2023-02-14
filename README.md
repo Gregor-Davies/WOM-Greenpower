@@ -5,6 +5,8 @@ A telemetry system for a Greenpower racing go-kart (https://www.greenpower.co.uk
 
 # System Diagram
 
+![Lora Diagram](https://user-images.githubusercontent.com/43633955/218691574-61b8a46e-cfd5-400a-b67e-f53ed5249368.png)
+
 
 # Required Parts
 
@@ -27,6 +29,6 @@ A telemetry system for a Greenpower racing go-kart (https://www.greenpower.co.uk
 
 ## License
 
-This project, code and all of it's respecting files is licensed under the GPL v3 Copyleft license. This means that all projects utilising this code must also be opensource, please respect this.
+This project, code and all of it's respecting files is licensed under the AGPL v3 Copyleft license. This means that all projects utilising this code must also be opensource, please respect this.
 
 
