@@ -12,7 +12,7 @@ A telemetry system for a Greenpower racing go-kart (https://www.greenpower.co.uk
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Heltec Lora32 v2  |  bit.ly/3zlZaot Amazon  | $55  |
+| Heltec Lora32 v2  | https://bit.ly/3zlZaot Amazon  | $55  |
 | DS18B20 Sensor| https://bit.ly/3VdB5J5  Amazon | $16 |
 | 10000mah PowerBank | https://bit.ly/3v5uVju Amazon | $13 |
 | 15k Ohm Resistors | https://bit.ly/3FLcQMF Amazon | $3 |
