@@ -3,6 +3,29 @@
 
 A telemetry system for a Greenpower racing go-kart (https://www.greenpower.co.uk/), built using LoRA and programmed with C++. This project has kindly been funded through the hack club winter of making grant program.
 
+# Currently Implemented
+
+- Temperature of the motor
+- Speed of the vehicle
+- Temperature of the batteries
+
+TODO:
+
+- Current sensor
+- Braking notfications?
+- Web app?
+- SD Datalogging
+- Bigger screens
+- Better Error reporting
+- Graphing of results?
+- Elapsed time of race
+- Tyre pressure
+- Strain sensor
+- Better casing designs
+- Gyroscope?
+- Swith to imu?
+- Battery voltage
+
 # System Diagram
 
 ![Lora Diagram (1)](https://user-images.githubusercontent.com/43633955/218691854-5a6bf5c3-c304-4b04-b4e8-5104f52c9db4.png)
