@@ -59,6 +59,7 @@ TODO:
 
 1 LED BLINK: Oled initalization has failed, check if OLED pins are correct (By default they are) and if the OLED is visibly damaged.
 2 LED BLINKS: No packet was recieved by the reciever, check antennas on both reciever and transmitter. 
+3 LED BLINKS: Motor temperature is 85 C this is normally an indicator that the DS18B20 sensors are broken or not working.
 
 ## License
 
