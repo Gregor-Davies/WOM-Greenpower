@@ -25,6 +25,7 @@ TODO:
 - Gyroscope?
 - Swith to imu?
 - Battery voltage
+- Test the range of the system
 
 # System Diagram
 
