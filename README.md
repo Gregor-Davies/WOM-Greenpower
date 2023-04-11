@@ -16,7 +16,6 @@ TODO:
 - Web app?
 - SD Datalogging
 - Bigger screens
-- Better Error reporting
 - Graphing of results?
 - Elapsed time of race
 - Tyre pressure
