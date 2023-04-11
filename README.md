@@ -26,6 +26,12 @@ TODO:
 - Swith to imu?
 - Battery voltage
 - Test the range of the system
+- Throttle position
+- Battery Voltage
+- Recording amp hours used
+- Distance travelled
+- Lap number
+
 
 # System Diagram
 
