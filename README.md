@@ -55,7 +55,10 @@ TODO:
 | 6.2k Resistors | https://bit.ly/3YDCV92 Amazon | $4.5 |
 | Total           |                                       | $126.5 |
 
+# Error Codes
 
+1 LED BLINK: Oled initalization has failed, check if OLED pins are correct (By default they are) and if the OLED is visibly damaged.
+2 LED BLINKS: No packet was recieved by the reciever, check antennas on both reciever and transmitter. 
 
 ## License
 
